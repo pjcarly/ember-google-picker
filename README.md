@@ -22,14 +22,9 @@ var ENV = {
 ```
 
 ## Component
-
-* pass the views you want to support as an attribute
-
 ```
-{{google-picker views=googlePickerViews valueChanged=(action 'googlePickerValueChanged')}}
+{{google-picker valueChanged=(action 'googlePickerValueChanged')}}
 ```
-
-* depending on the views you want, you must extend your configuration scope (https://developers.google.com/picker/docs/)
 
 ## Response
 
