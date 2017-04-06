@@ -1,7 +1,8 @@
 # ember-google-picker
 
-## Installation
+This is very much a Concept, I don't have much time to work on this, and invite anyone to send me pull requests
 
+## Installation
 * `git clone <repository-url>` this repository
 * `cd ember-google-picker`
 * `npm install`
